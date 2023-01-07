@@ -1,4 +1,4 @@
-package com.wednesday.present_server;
+package com.wednesday.present_server.present_server.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
