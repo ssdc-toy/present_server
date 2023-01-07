@@ -1,7 +1,7 @@
 ---
-name: "[{fix or hotfix}/{branch_name}] 버그를 해결한다."
-about: Create a report to help us improve
-title: ''
+name: "\U0001F41E BUG"
+about: 버그 발생 시 작성해주세요.
+title: "[{fix or hotfix}/{branch_name}] 버그를 해결한다."
 labels: ''
 assignees: ''
 
