@@ -1,4 +1,4 @@
-package com.wednesday.present_server;
+package com.wednesday.present_server.present_server.model;
 
 import lombok.Getter;
 import lombok.Setter;

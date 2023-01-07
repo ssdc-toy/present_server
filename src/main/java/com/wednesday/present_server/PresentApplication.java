@@ -1,5 +1,6 @@
 package com.wednesday.present_server;
 
+import com.wednesday.present_server.present_server.model.Hello_Model;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -14,5 +15,5 @@ public class PresentApplication {
         System.out.println("data = " + data);
 
         SpringApplication.run(PresentApplication.class, args);
-    };
+    }
 }

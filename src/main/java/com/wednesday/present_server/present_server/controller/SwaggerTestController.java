@@ -1,4 +1,4 @@
-package com.wednesday.present_server;
+package com.wednesday.present_server.present_server.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
